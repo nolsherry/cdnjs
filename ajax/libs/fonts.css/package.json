@@ -1,0 +1,24 @@
+{
+  "name": "fonts.css",
+  "filename": "fonts.min.css",
+  "version": "1.5.0",
+  "description": "It is a cross-platform Chinanese fonts which included common fonts in Windows, Mac and Linux"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenozeng/fonts.css.git"
+  },
+  "keywords": [
+    "fonts"
+  ],
+  "author": "Zeno Zeng",
+  "license": "MIT",
+  "npmName": "fonts.css",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "fonts*"
+      ]
+    }
+  ]
+}
